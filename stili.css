@@ -1,0 +1,22 @@
+h1 {
+    font-size: 100px ;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: red;
+    color : white;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: bold;
+    color:red;
+    font-family: fantasy;
+}
+
+h3 {
+    font-family:Arial, Helvetica, sans-serif;
+}
+h4 {
+    font-weight: bold;
+    font-size: 200px;
+    color:black;
+}
